@@ -19,4 +19,4 @@ Overview includes, word clouds, and entity detection, as well as a regular old f
 
 Here is an example of a Word Cloud I developed using [Walt Whitman's](http://www.poetryfoundation.org/bio/walt-whitman) poem [Song of Myself](http://www.poetryfoundation.org/poem/182373"). 
 
-![Alt text](/files/expand_arrow.JPG "Image call example"
+![Whitman Cloud](http://i.imgur.com/jC1y6ec.png)"
