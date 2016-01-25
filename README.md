@@ -2,10 +2,11 @@
 
 #What is Overview?
 
-**Overview** is a tool for analyzing large sets of documents, which includes a sophisticated search engine, word clouds, entity detection, and topic-based document clustering. You can also write your own plugins in an Application Program Interface OR  [API](http://techterms.com/definition/api) for short. It is open source program that you can run it on your own machine.
-It was designed for investigative journalists; however, it is also used in qualitative research, social media conversation analysis, legal document review, digital humanities, etc, and so on.
+**Overview** is a tool for analyzing large sets of documents, which includes a sophisticated search engine, word clouds, entity detection, and topic-based document clustering. You can also write your own plugins in an Application Program Interface OR  [API](http://techterms.com/definition/api) for short. It is open source program that you can run on your machine.
+It was designed for investigative journalists; however, it is also used in qualitative research, social media conversation analysis, legal document review, digital humanities, etc, and so on. I can see it being used to analize a large corpus of literary texts. 
 
-Where to get [Overview](https://www.overviewdocs.com/)
+Click to get [Overview](https://www.overviewdocs.com/)
+Just sign up for an account, it is that easy. You can download it to your machine, I have not as of yet. 
 
 ###History
 
@@ -14,7 +15,7 @@ November 2010: was the start of the project through research and design, and mov
 
 ###The Nitty Gritty
 
-What **Overview** is a way to file and keep track of plain text documents. No converstion to PDF or other such programs, just upload the document. 
+What **Overview** is a way to file and keep track of plain text documents. No converstion to PDF or other such programs, just upload any text document. 
 
 Overview has so many options:
 
@@ -22,9 +23,7 @@ Overview has so many options:
 
 •	Convert bulk documents between formats, export only a subset, etc.
 
-•	Also includes advanced search features, word clouds, and entity detection, as well as a plain old folder view. 
-
-**Overview** includes, Word Clouds, and Entity Detection, as well as a simple folder view. 
+•**Overview** includes, Word Clouds, and Entity Detection, as well as a simple folder view. 
 
 Here is an example of **Overview's Word Cloud**, which I developed using [Walt Whitman's](http://www.poetryfoundation.org/bio/walt-whitman) poem [Song of Myself](http://www.poetryfoundation.org/poem/182373"). 
 
@@ -32,19 +31,24 @@ Here is an example of **Overview's Word Cloud**, which I developed using [Walt W
 
 Cool isn't it? As in any **Word Cloud**, the larger words are the most frequently used words in the text. 
 
-There are many features, which can be used to narrow down the words in the cloud. One fine feature is the abilty to take our useless words, such as adjectives.  As you can see here:
+There are many features, one fine feature is the abilty to take our useless words, such as adjectives.  As you can see here:
 
 ![Imgur](http://i.imgur.com/63MYFcJ.png?1)
+
+Just hit the erase button and use the cusror to click out the words you do not want. 
+It also keeps track of the hidden word, and you click on hidden words, and voila, you can put them back into the cloud. 
 
 Here is an example of the **Xperimental Word Occurance** of the same sample poem by Whitman.
 
 ![Imgur](http://i.imgur.com/1RKsRer.png)
 
-In the **Word Tree** I added in another American Transcendentalist. [Henry David Thoreau's](https://www.walden.org/Thoreau) [Walking](http://thoreau.eserver.org/walking.html) between **Walking** and **Whitman's Song of Myself** We get to see various similar words between the two texts that are now in files. 
+Interesting way to see what words are in a text and how they connect to each other. 
+
+In the **Word Tree** I added in another American Transcendentalist. [Henry David Thoreau's](https://www.walden.org/Thoreau) [Walking](http://thoreau.eserver.org/walking.html) between **Walking** and **Whitman's Song of Myself** We get to see various similar words between the two texts that are now in  the files viewed here. 
 
 ![Imgur](http://i.imgur.com/X0W923N.png)
 
-Now I am just starting to play with **Overview** so I do not have many files upoaded yet, but I have given you a bit to show you what it can do. 
+I am just starting to play with **Overview** so I do not have many files upoaded to the site, but I have given you a bit to show you what it can do. 
 
 ###Key Board Short Cuts
 **Overview** has several keyboard shortcuts to make navigating through your documents even faster:
